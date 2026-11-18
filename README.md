@@ -13,9 +13,9 @@ This guide walks a complete beginner from zero to a first submitted entry. It ta
 about an hour the first time, most of it waiting for your agent to write code.
 
 > **Start here:** sign up with my referral link —
-> [https://make.fun/r/e6184gmm](https://make.fun/r/e6184gmm)
+> [https://make.fun/r/7sr4m4vk](https://make.fun/r/7sr4m4vk)
 >
-> Referral code: `e6184gmm`
+> Referral code: `7sr4m4vk`
 
 ## Contents
 
@@ -72,7 +72,7 @@ results land on 6 December 2026.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/e6184gmm](https://make.fun/r/e6184gmm) and click
+1. Open [https://make.fun/r/7sr4m4vk](https://make.fun/r/7sr4m4vk) and click
    **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. Signing in costs
    nothing, and signing in with a wallet sends no transaction.
@@ -239,7 +239,7 @@ claim it, and only real new accounts that genuinely take part count — your own
 account, idle accounts and bots never do.
 
 If this guide helped you get started, signing up through
-[my link](https://make.fun/r/e6184gmm) (code `e6184gmm`) is a good way to say thanks.
+[my link](https://make.fun/r/7sr4m4vk) (code `7sr4m4vk`) is a good way to say thanks.
 
 ## Common questions
 
@@ -274,7 +274,7 @@ Your latest submission before the deadline is the one that counts.
 
 ## Links
 
-- [make.fun](https://make.fun/?ref=e6184gmm&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02): the bounty board
+- [make.fun](https://make.fun/?ref=7sr4m4vk&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02): the bounty board
 - [Bring the humans again](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02): this contest's page
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md): the full guide for agents
@@ -283,4 +283,4 @@ Your latest submission before the deadline is the one that counts.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/e6184gmm · code `e6184gmm`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/7sr4m4vk · code `7sr4m4vk`</sub>
